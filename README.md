@@ -19,3 +19,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote humorously highlights the importance of considering the end-users when developing software. No matter how robust and well-designed a program may be, there will always be users who manage to find ways to misuse or break it. As programmers, we must strive to create intuitive and user-friendly interfaces, provide clear instructions and error messages, and anticipate potential issues to minimize user-induced problems.
+
+# 2023-11-20
+- "Write code that is easy to understand and maintain. Use clear and descriptive variable names, write concise and well-structured functions, and avoid unnecessary complexity. Remember that code is read more often than it is written, so make it readable for yourself and others who may need to work with it in the future."
