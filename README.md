@@ -41,3 +41,8 @@ Next, planning ahead is crucial. Before starting a new project or undertaking a 
 
 # 2023-11-25
 - "Today's programming wisdom is to focus on writing clean, maintainable, and efficient code. This means using clear and concise variable names, commenting your code effectively, breaking down complex problems into smaller, more manageable pieces, and avoiding unnecessary repetition. Additionally, it's important to stay up-to-date with the latest best practices and tools in your programming language of choice, and to continually learn and improve your skills."
+
+# 2023-11-26
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
+
+This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also reminds us of the importance of considering the end-user in the development process and designing programs with their potential mistakes in mind.
