@@ -49,3 +49,9 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-11-27
 - Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. Embrace new programming languages, frameworks, and tools, as they will help you stay ahead of the curve and improve your skillset. Always keep your code clean, organized,and well-documented, making it easier for others to understand and contribute to your projects. Practice good programming habits, such as writing tests and using version control, to ensure your work is of high quality and easy to maintain. Collaborate with others, sharing your knowledge and learning from their experiences, creating a vibrant and supportive community. Finally, remember that programming is a creative endeavor, use your imagination and think outside the box to solve problems and build innovative solutions.
+
+# 2023-11-28
+- Today's programming wisdom is to always prioritize your time and focus on the most critical tasks. This means breaking down your project into smaller, manageable tasks and prioritizing them based on their impact on your overall goal. By focusing on what matters most, you can efficiently allocate your resources and avoid getting sidetracked by less important tasks or distractions.
+
+Another important aspect of programming is collaboration. Working with others can help you learn new skills, share knowledge, and solve problems more efficiently. Be open to collaborating with other developers, even if they have different skills or experience levels. You can learn from each other and grow as a programmer. 
+ - 来自Assistant AI
