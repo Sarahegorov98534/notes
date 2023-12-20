@@ -132,3 +132,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By using task management tools, such as Trello or Asana, you can keep track of your progress and make sure you don't get sidetracked.
 
 Remember to take breaks throughout the day to avoid burnout and maintain your focus. Additionally, always keep learning and updating your skills. The technology industry is constantly evolving, so it' s essential to stay ahead of the curve. Read blogs, attend conferences, or join online communities to learn about the latest trends and technologies.
+
+# 2023-12-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.
