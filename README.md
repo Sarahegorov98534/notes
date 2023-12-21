@@ -135,3 +135,9 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 # 2023-12-20
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.
+
+# 2023-12-21
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the newest trends and technologies in the industry.
+
+To become a successful programmer, you should also develop a growth mindset. A growth mentality is the belief that you can improve and learn from your mistakes. By embracing failure and treating it as an opportunity to learn, programmers can become more adaptable and better equipped to handle the challenges they will face throughout their careers. Additionally, being a good communicator and collaborator is crucial, because programming is a collaborative effort. Effective communication and teamwork can lead to better solutions and a more enjoyable work environment. 
+ 最终，成为一名成功的程序员需要时间、努力和持续的学习。通过保持好奇心，不断追求进步，并与其他开发者建立良好的关系，您将能够在这个不断发展的领域中取得成功。
