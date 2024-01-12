@@ -228,3 +228,6 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 To achieve this, it is essential to develop a growth mindset and embrace challenges. Always be curious and explore new ideas, even if they seem out of reach. Emphasizing the process of learning and growth, rather than the end result, will help you stay motivated and focused. Remember that every mistake is an opportunity to learn and improve. 
  - 来自NLP
+
+# 2024-01-12
+- "Keep it simple, stupid!"
