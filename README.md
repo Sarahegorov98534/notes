@@ -286,3 +286,6 @@ Remember to stay flexible and adaptable. As you work, problems may arise, or new
 Secondly, use time management techniques to your advantage. Break down your projects into smaller, manageable tasks. Then, allocate time for each task, allowing for some wiggle room in case things take longer than expected. Using a scheduling tool, such as Todoist or Trello, can help keep you organized and on track. 
  	
 Lastly, stay organised and don't be afraid to ask for help. Keep your code organized, using version control systems like Git to track your changes. Document your work, so others can understand your thought process and code. If you get stuck on a problem, don’t hesitate to reach out to colleagues, friends, or online communities like Stack Overflow for assistance. Remember, there is always someone willing to help, provided you put in the effort to find them.
+
+# 2024-01-24
+- "Keep it simple, stupid!"
