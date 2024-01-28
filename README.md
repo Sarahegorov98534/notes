@@ -306,3 +306,6 @@ Lastly, stay organised and don't be afraid to ask for help. Keep your code organ
 5. Practice: Practice makes perfect. Try to solve problems and complete projects on your own time, outside of class or work hours. The more you practice, the better you will become at programming.    
 6. Document: Write clear, concise, well-structured documentation for your projects. It will make it easier for others to understand and maintain your codes, as well as helping you remember how things work in the future.     
 7. Communicate: Collaborate with others on projects and share your knowledge. Discuss problems, ideas, solutions, code, documentation, feedback, progress, deadlines with team members. Clear communication is essential for successful projects, no matter the size of the team.
+
+# 2024-01-28
+- "Keep it simple, stupid!"
