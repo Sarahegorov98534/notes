@@ -346,3 +346,9 @@ Secondly, planning ahead is crucial. Make sure you have a plan in place for your
 
 # 2024-02-03
 - "Keep it simple, stupid!"
+
+# 2024-02-04
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the principles of software development, such as agile methodologies and continuous integration.
+
+To be an effective programmer, it' s important to understand the needs of your users and collaborate with your team members. Good communication and problem-solving skills are essential, as you' ll be working with people from different backgrounds and disciplines. Embracing feedback and criticism will help you grow as a developer and improve your work. 
+ 学习新技术和编程语言，不断更新你的技能和知识。理解软件开发的原理，如敏捷方法和持续集成。了解用户需求，与团队成员合作。具备良好的沟通和解决问题的能力，因为你要与来自不同背景和学科的人合作
